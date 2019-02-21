@@ -5,6 +5,6 @@ b = "#"
 a = 0
 while a < x
    a = a+1
-   b = b + "#"
    puts b
+   b = b + "#"
 end
