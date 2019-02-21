@@ -1,5 +1,5 @@
 puts "Choisis un nombre !"
-prints ">"
+print ">"
 x = gets.chomp.to_i
 n = 1
 while n <= x
